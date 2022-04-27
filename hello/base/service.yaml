@@ -6,6 +6,7 @@ spec:
   selector:
     deployment: hello
   type: LoadBalancer
+#  clusterIP: 10.107.6.22
   ports:
   - protocol: TCP
     port: 8666

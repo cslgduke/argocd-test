@@ -1,0 +1,9 @@
+apiVersion: cic.sap.com/v1
+kind: MMP
+metadata:
+  name: cicmmp
+spec:
+  displayName: Intelligent Return Management
+  description: Intelligent Return Management
+  applicationURL: https://irmo
+  callbackTimeoutMillis: 30000
