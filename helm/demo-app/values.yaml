@@ -1,0 +1,8 @@
+env:
+  ds_maximum_pool_size: 8
+  jwt_enable: true
+  jwt_permission_validation: true
+  spec_sidecar_enable: true
+  kafka_missing_topic_fatal: true
+  redis_ssl: true
+  JAVA_TOOL_OPTIONS:  "-Xmx2g -Xms2g"

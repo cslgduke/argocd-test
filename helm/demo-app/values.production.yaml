@@ -1,0 +1,2 @@
+env:
+  JAVA_TOOL_OPTIONS:  "-Xmx4g -Xms4g"
